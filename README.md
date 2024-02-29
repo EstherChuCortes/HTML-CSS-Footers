@@ -59,7 +59,7 @@ Simplemente elige el footer que más te guste, ¡y comienza a integrarlo en tus 
 
 ¡Si tienes alguna idea para un footer adicional o alguna mejora que sugerir, no dudes en abrir un issue o enviar un pull request! Tu contribución es muy apreciada. 😊
 
-¡Espero que encuentres estas ideas útiles y que te inspiren a crear footers sorprendentes para tus proyectos! ¡Feliz codificación! 💻✨
+¡Espero que encuentres estas ideas útiles y que te inspiren a crear footers sorprendentes para tus proyectos! 💻✨
 
 ## Trabajo Freelance 💼
 
